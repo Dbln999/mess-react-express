@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/messanger-react-express-bootsrap/static/css/main.bd7fd60e.css",
+    "main.js": "/messanger-react-express-bootsrap/static/js/main.5718d1d0.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/messanger-react-express-bootsrap/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/messanger-react-express-bootsrap/index.html",
+    "main.bd7fd60e.css.map": "/messanger-react-express-bootsrap/static/css/main.bd7fd60e.css.map",
+    "main.5718d1d0.js.map": "/messanger-react-express-bootsrap/static/js/main.5718d1d0.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/messanger-react-express-bootsrap/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd7fd60e.css",
+    "static/js/main.5718d1d0.js"
+  ]
+}

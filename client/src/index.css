@@ -1,0 +1,28 @@
+.App {
+  height: 100vh;
+}
+.message {
+  border-radius: 20px;
+  height: 90px;
+  background: #f9f4d9;
+}
+.formCont {
+  height: 50px;
+}
+.message-green {
+  border-radius: 20px;
+  height: 90px;
+  background: #90ee90;
+  display: flex;
+  flex-direction: column;
+  align-self: end;
+}
+.userName{
+  margin-top: 5px;
+  font-size: 19px;
+  color: #00ff03;
+  font-family: sans-serif;
+}
+.message-green > .userName{
+  color: #0d00ff;
+}
