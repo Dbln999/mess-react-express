@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mess-react-express/static/css/main.bd7fd60e.css",
+    "main.js": "/mess-react-express/static/js/main.06461afd.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/mess-react-express/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/mess-react-express/index.html",
+    "main.bd7fd60e.css.map": "/mess-react-express/static/css/main.bd7fd60e.css.map",
+    "main.06461afd.js.map": "/mess-react-express/static/js/main.06461afd.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/mess-react-express/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd7fd60e.css",
+    "static/js/main.06461afd.js"
+  ]
+}
